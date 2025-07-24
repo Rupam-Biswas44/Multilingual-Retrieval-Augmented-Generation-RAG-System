@@ -1,6 +1,6 @@
 # Multilingual RAG System (English & Bengali)
 
-This project implements a lightweight Retrieval-Augmented Generation (RAG) system capable of answering English and Bengali questions based on a provided Bangla HSC textbook (HSC26 Bangla 1st Paper). It supports long-term memory from documents and short-term conversational memory.
+This project implements a lightweight Retrieval-Augmented Generation (RAG) system capable of answering English and Bengali questions . It supports long-term memory from documents and short-term conversational memory.
 
 ## 💡 Features
 
@@ -83,8 +83,8 @@ This project implements a lightweight Retrieval-Augmented Generation (RAG) syste
 | Query (Bengali)                                | Expected Answer | Result |
 | ---------------------------------------------- | --------------- | ------ |
 | অনুপমের ভাষায় সুপুরুষ কাকে বলা হয়েছে?          | শুম্ভুনাথ       | ✅      |  ✅
-| কাকে অনুপমের ভাগ্য দেবতা বলে উল্লেখ করা হয়েছে? | মামাকে          | ✅      |     ✅
-| বিয়ের সময় কল্যাণীর প্রকৃত বয়স কত ছিল?       | 15 বছর          | ✅      | ✅ 
+| কাকে অনুপমের ভাগ্য দেবতা বলে উল্লেখ করা হয়েছে? | মামাকে         | ✅      |  ✅
+| বিয়ের সময় কল্যাণীর প্রকৃত বয়স কত ছিল?       | 15 বছর         | ✅     |  ✅ 
 
 ---
 
